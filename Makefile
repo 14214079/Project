@@ -1,5 +1,4 @@
-TEXT : 
-	cc -c text.c
-	cc text.o -o t
+TEXT : text.o
+	cc text.o -o TEXT
 clean:
 	rm -rf text.c
