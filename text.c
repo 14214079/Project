@@ -52,6 +52,9 @@ int main(int argc, char *argv[])
 		for(i = 0; i < x; i++)
 			putchar(a[i]);
 	close(fd);
+	//write in a file
+	
+	
 	return 0;
 
 
