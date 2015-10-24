@@ -19,10 +19,11 @@ int N = 0;
 ds *head = NULL;
 ds *tail = NULL;
 void printmenu(){
-	printf("q for quiet the editor ");
-	printf("a for appending the text to file ");
-	printf("w for saving the file");
-	printf("r for removing");
+	printf("q for quite the editor \n");
+	printf("a for appending the text to file\n ");
+	printf("w for saving the file\n");
+	printf("r for removing\n");
+	printf("p for printing the file");
 }
 
 int main(int argc, char *argv[])
