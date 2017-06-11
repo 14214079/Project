@@ -1,6 +1,5 @@
 TITLE : Text editor using GTK
-
-111403016 PriteshKumar Jugalkishor Holani
+PriteshKumar Jugalkishor Holani
 	
 	* My text editor need gtk library to be installed on system.
 	* Install gtk by copying command in terminal
